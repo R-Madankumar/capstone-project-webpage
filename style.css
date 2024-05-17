@@ -1,0 +1,48 @@
+.d-block {
+    border-radius: 50%;
+}
+.btn {
+    background: deepskyblue;
+    background-image: -webkit-linear-gradient(top, deepskyblue,deepskyblue);
+    background-image: -moz-linear-gradient(top, deepskyblue,deepskyblue);
+    background-image: -ms-linear-gradient(top, deepskyblue,deepskyblue);
+    background-image: -o-linear-gradient(top, deepskyblue,deepskyblue);
+    background-image: linear-gradient(to bottom,deepskyblue, deepskyblue);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: "Montserrat", sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  .web>.anime{
+    float: left;
+  }
+  .parent {
+    display: grid;
+    grid-template-columns: 0.5fr 1fr;
+    grid-template-rows: repeat(1, 1fr);
+    width: 50%;
+    margin: 100px auto 0 auto;
+    text-align: left;
+    row-gap: 2rem;
+  }
+  h1{
+   text-align: center;
+
+   font-family:Alef;
+   color:blue
+  }
+  p{
+    font-family: sans-serif;
+  }
+  .a{
+    font-family: Alef;
+    color:deepskyblue;
+  }
+  .uv{
+    background-color:deepskyblue;
+  }
+  
